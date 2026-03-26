@@ -1,0 +1,59 @@
+{
+  "certificates": [
+    {
+      "id": "SCB-PLRRE9VV",
+      "nombre": "Freddy Guarayo Apaza",
+      "profesion": "Policía",
+      "uso": "Fotos y videos seguridad",
+      "drone": "DJI Air 3S",
+      "curso": "Piloto de Drone RPAS",
+      "nivel": "Básico Intermedio",
+      "fecha_emision": "2026-03-11",
+      "estado": "vigente"
+    },
+    {
+      "id": "SCB-2S66WK7Y",
+      "nombre": "Fabio Gustavo Bautista Velasco",
+      "profesion": "Fotógrafo, Videógrafo",
+      "uso": "Uso comercial, publicidad, redes sociales",
+      "drone": "DJI Air 3S",
+      "curso": "Piloto de Drone RPAS",
+      "nivel": "Básico Intermedio",
+      "fecha_emision": "2026-03-11",
+      "estado": "vigente"
+    },
+    {
+      "id": "SCB-DTE5K3JC",
+      "nombre": "Franklin Santiago Rubin de Celis Perez",
+      "profesion": "Piloto Comercial",
+      "uso": "Hobby",
+      "drone": "—",
+      "curso": "Piloto de Drone RPAS",
+      "nivel": "Básico Intermedio",
+      "fecha_emision": "2026-03-11",
+      "estado": "vigente"
+    },
+    {
+      "id": "SCB-9HD3KFAE",
+      "nombre": "Josefa Katy Chipana Tintaya",
+      "profesion": "Arquitecto",
+      "uso": "Fotografía y topografía",
+      "drone": "—",
+      "curso": "Piloto de Drone RPAS",
+      "nivel": "Básico Intermedio",
+      "fecha_emision": "2026-03-12",
+      "estado": "vigente"
+    },
+    {
+      "id": "SCB-5FXC6F2N",
+      "nombre": "Danna Anel Amaru Callisaya",
+      "profesion": "Videógrafa",
+      "uso": "Tomas aéreas",
+      "drone": "—",
+      "curso": "Piloto de Drone RPAS",
+      "nivel": "Básico Intermedio",
+      "fecha_emision": "2026-03-12",
+      "estado": "vigente"
+    }
+  ]
+}
